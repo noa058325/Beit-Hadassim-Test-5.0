@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "StoreBackend": {
+      "commandName": "Project",
+       "launchUrl": "swagger",
+      "launchBrowser": true,
+       
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:64900;http://localhost:64901"
+    }
+  }
+}

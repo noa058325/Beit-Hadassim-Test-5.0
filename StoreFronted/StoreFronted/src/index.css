@@ -1,0 +1,187 @@
+/* הגדרות כלליות */
+:root {
+  --primary-color: #4CAF50; /* צבע ראשי */
+  --secondary-color: #f44336; /* צבע משני */
+  --background-color: #f4f4f9; /* צבע רקע */
+  --text-color: #333; /* צבע טקסט */
+  --button-color: #3e8e41;
+  --button-hover-color: #2e7031;
+}
+
+/* איפוס סגנונות */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url('/ננננ.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: 'Arial', sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* כותרת ראשית */
+/* כותרת ראשית */
+h1 {
+  font-size: 2.5em;
+  margin-top: 2rem;
+  text-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white; /* מסגרת לבנה מסביב לטקסט */
+  padding: 0.5rem;
+  display: inline-block; /* הופך את החלק הזה לאלמנט שיכול לקבל padding */
+  border-radius: 8px; /* עיגול פינות המסגרת */
+}
+
+
+/* כפתור עגלגל */
+button {
+  background-color: var(--button-color);
+  color: white;
+  font-size: 1.2em;
+  border-radius: 8px;
+  border: none;
+  padding: 1em 2em;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.button-group {
+  display: flex;
+  gap: 1rem; /* רווח אופקי בין כפתורים */
+  flex-wrap: wrap; /* במקרה שהם נגלשים לשורה חדשה */
+}
+
+button:hover {
+  background-color: var(--button-hover-color);
+}
+
+/* כרטיסים (Cards) */
+.card {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+  margin: 1rem;
+  width: 100%;
+  max-width: 350px;
+  text-align: center;
+}
+
+/* דפים עם תצוגה רספונסיבית */
+@media (max-width: 768px) {
+  .card {
+    width: 90%;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  button {
+    width: 100%;
+  }
+}
+
+/* קישורים */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* עיצוב דף הבית */
+.homepage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 2rem;
+}
+.home-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.homepage button {
+  margin-top: 1rem;
+  width: 200px;
+  font-size: 1.5rem;
+}
+
+/* דף כניסת ספק */
+.login-container {
+  width: 100%;
+  max-width: 400px;
+  padding: 2rem;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.login-container input {
+  width: 100%;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.login-container button {
+  width: 100%;
+  padding: 1.2rem;
+  font-size: 1.2rem;
+  background-color: var(--primary-color);
+  color: white;
+}
+
+/* דף הסטטוס של ההזמנות */
+.orders-container {
+  width: 100%;
+  max-width: 1280px;
+  padding: 2rem;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.order-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.order-status {
+  font-weight: bold;
+  color: #4CAF50;
+}
+
+.order-button {
+  background-color: var(--secondary-color);
+  color: white;
+  padding: 0.8rem 1.5rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.order-button:hover {
+  background-color: #e53935;
+}

@@ -1,0 +1,9 @@
+ECHO is on.
+# Ignore build output and VS files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.vspx
+*.vsidx
