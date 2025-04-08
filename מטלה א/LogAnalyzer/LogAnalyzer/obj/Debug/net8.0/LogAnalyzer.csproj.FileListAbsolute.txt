@@ -1,0 +1,42 @@
+C:\מטלה\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\מטלה\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.AssemblyInfoInputs.cache
+C:\מטלה\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.AssemblyInfo.cs
+C:\מטלה\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.csproj.CoreCompileInputs.cache
+C:\מטלה\LogAnalyzer\LogAnalyzer\bin\Debug\net8.0\LogAnalyzer.exe
+C:\מטלה\LogAnalyzer\LogAnalyzer\bin\Debug\net8.0\LogAnalyzer.deps.json
+C:\מטלה\LogAnalyzer\LogAnalyzer\bin\Debug\net8.0\LogAnalyzer.runtimeconfig.json
+C:\מטלה\LogAnalyzer\LogAnalyzer\bin\Debug\net8.0\LogAnalyzer.dll
+C:\מטלה\LogAnalyzer\LogAnalyzer\bin\Debug\net8.0\LogAnalyzer.pdb
+C:\מטלה\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.dll
+C:\מטלה\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\refint\LogAnalyzer.dll
+C:\מטלה\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.pdb
+C:\מטלה\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.genruntimeconfig.cache
+C:\מטלה\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\ref\LogAnalyzer.dll
+C:\מטלה סופיי!!\Part A\LogAnalyzer\LogAnalyzer\bin\Debug\net8.0\LogAnalyzer.exe
+C:\מטלה סופיי!!\Part A\LogAnalyzer\LogAnalyzer\bin\Debug\net8.0\LogAnalyzer.deps.json
+C:\מטלה סופיי!!\Part A\LogAnalyzer\LogAnalyzer\bin\Debug\net8.0\LogAnalyzer.runtimeconfig.json
+C:\מטלה סופיי!!\Part A\LogAnalyzer\LogAnalyzer\bin\Debug\net8.0\LogAnalyzer.dll
+C:\מטלה סופיי!!\Part A\LogAnalyzer\LogAnalyzer\bin\Debug\net8.0\LogAnalyzer.pdb
+C:\מטלה סופיי!!\Part A\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\מטלה סופיי!!\Part A\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.AssemblyInfoInputs.cache
+C:\מטלה סופיי!!\Part A\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.AssemblyInfo.cs
+C:\מטלה סופיי!!\Part A\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.csproj.CoreCompileInputs.cache
+C:\מטלה סופיי!!\Part A\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.dll
+C:\מטלה סופיי!!\Part A\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\refint\LogAnalyzer.dll
+C:\מטלה סופיי!!\Part A\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.pdb
+C:\מטלה סופיי!!\Part A\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.genruntimeconfig.cache
+C:\מטלה סופיי!!\Part A\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\ref\LogAnalyzer.dll
+C:\מטלה סופיי!!\מטלה א\LogAnalyzer\LogAnalyzer\bin\Debug\net8.0\LogAnalyzer.exe
+C:\מטלה סופיי!!\מטלה א\LogAnalyzer\LogAnalyzer\bin\Debug\net8.0\LogAnalyzer.deps.json
+C:\מטלה סופיי!!\מטלה א\LogAnalyzer\LogAnalyzer\bin\Debug\net8.0\LogAnalyzer.runtimeconfig.json
+C:\מטלה סופיי!!\מטלה א\LogAnalyzer\LogAnalyzer\bin\Debug\net8.0\LogAnalyzer.dll
+C:\מטלה סופיי!!\מטלה א\LogAnalyzer\LogAnalyzer\bin\Debug\net8.0\LogAnalyzer.pdb
+C:\מטלה סופיי!!\מטלה א\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\מטלה סופיי!!\מטלה א\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.AssemblyInfoInputs.cache
+C:\מטלה סופיי!!\מטלה א\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.AssemblyInfo.cs
+C:\מטלה סופיי!!\מטלה א\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.csproj.CoreCompileInputs.cache
+C:\מטלה סופיי!!\מטלה א\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.dll
+C:\מטלה סופיי!!\מטלה א\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\refint\LogAnalyzer.dll
+C:\מטלה סופיי!!\מטלה א\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.pdb
+C:\מטלה סופיי!!\מטלה א\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\LogAnalyzer.genruntimeconfig.cache
+C:\מטלה סופיי!!\מטלה א\LogAnalyzer\LogAnalyzer\obj\Debug\net8.0\ref\LogAnalyzer.dll
